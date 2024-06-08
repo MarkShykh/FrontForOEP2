@@ -1,0 +1,18 @@
+body {
+	height: 100vh;
+}
+
+#root {
+	min-height: 100%;
+}
+
+#main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 85vh;
+}
+
+.btn-secondary {
+	--bs-btn-bg: #eb455f !important;
+}
